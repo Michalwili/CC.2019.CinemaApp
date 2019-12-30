@@ -1,0 +1,38 @@
+/* Navbar */
+
+.nav-bar-container{
+    width: 40%;
+    height:64px;
+}
+
+.img-nav-bar{
+    width:140px;
+    max-width: 100%; 
+}
+
+.my-navbar{
+    height: 80px;
+    margin: auto;
+}
+
+.my-navbar-small{
+    width: 95%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo-container{
+    padding: 0 15px;
+    max-width: 40%    
+}
+.nav-right-con{ 
+    padding-right: 15px;
+}
+
+.user-nav{
+    margin:10px;
+    display: inline-block;
+}
+
